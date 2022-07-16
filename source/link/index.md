@@ -1,7 +1,7 @@
 ---
 title: Friends?
 date: 2022-07-17 05:15:30
-layout: friends
+layout: page
 ---
 
 <div id="qexo-friends"></div>
