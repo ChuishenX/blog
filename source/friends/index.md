@@ -1,12 +1,9 @@
 ---
 title: Friends?
 date: 2022-07-17 05:15:30
-layout: page
+layout: friends
 ---
 
-<div id="qexo-friends"></div>
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/qexo-static@1.1.3/hexo/friends/friends.css"/>
-<script src="https://cdn.jsdelivr.net/npm/qexo-static@1.1.3/hexo/friends/friends.js"></script>
-<script>loadQexoFriends("qexo-friends", "https://admin.chuishen.cf/")</script>
+真正的孤独感是什么？是孤身一人吃完肯德基全家桶。
 
-
+然后突然想起来自己是素食主义者。
